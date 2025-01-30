@@ -4,7 +4,7 @@
 
 [project]
 name = "metro-feedstock"
-version = "3.45.2"
+version = "3.45.4"
 description = "Pixi configuration for conda-forge/metro-feedstock"
 authors = ["@conda-forge/metro"]
 channels = ["conda-forge"]
