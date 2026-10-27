@@ -1,5 +1,5 @@
 context:
-  version: "0.87.1"
+  version: "0.87.2"
 
 package:
   name: metro
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/metro/-/metro-${{ version }}.tgz
-  sha256: e41019a311868f8870632dbdc666644b488aa2459ba463851857821bec171ac0
+  sha256: 8fe38cd6d1d47e0cc14a6ce75ce6fa5dde0e60e2b036c3c3c2343470450636ff
 
 build:
   number: 0
